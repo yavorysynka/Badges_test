@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: fdgdfgfd\n"
+"Project-Id-Version: badges-test\n"
 "Report-Msgid-Bugs-To: http://bugs.kde.org\n"
 "POT-Creation-Date: 2008-09-03 10:09+0200\n"
-"PO-Revision-Date: 2018-07-30 11:02\n"
+"PO-Revision-Date: 2018-07-30 11:33\n"
 "Last-Translator: yavorysynka <olga@crowdin.com>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -11,32 +11,33 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
-"X-Crowdin-Project: fdgdfgfd\n"
+"X-Crowdin-Project: badges-test\n"
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /master/Sample.po\n"
 "Language: de_DE\n"
 
 #: simple string sample
 msgid "Text for translation"
-msgstr ""
+msgstr "Text für die übersetzung"
 
 #: sample with translated string
 msgid "Text for translation"
-msgstr ""
+msgstr "Text für die übersetzung"
 
 #: long string without new line
 msgid "Very long string for translationeven longer string for translation."
-msgstr ""
+msgstr "Sehr lange Zeichenfolge für translationeven längeren Strings für die übersetzung."
 
 #: long string with new line
 msgid "Very long string.\n"
 "Even longer string"
-msgstr ""
+msgstr "Sehr lange Zeichenfolge.\n"
+"Noch mehr string"
 
 #: plurals
 #, string with plurals forms
 msgid "Time: %1 second"
 msgid_plural "Time: %1 seconds"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Zeit: %1 zweiten"
+msgstr[1] "Zeit: %1 Sekunden"
 
