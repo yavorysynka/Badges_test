@@ -22,7 +22,7 @@ msgid "Text for translation"
 msgstr ""
 
 #: sample with translated string
-msgid "Text for translation"
+msgid "Text for translation!"
 msgstr "Translated string"
 
 #: long string without new line
